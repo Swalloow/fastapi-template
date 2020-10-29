@@ -1,0 +1,8 @@
+fastapi>=0.61.*
+uvicorn>=0.11.*
+psycopg2==2.8.*
+databases[postgresql]
+python-dotenv==0.14.0
+pytest==6.1.*
+pylint
+black
